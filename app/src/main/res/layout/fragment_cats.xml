@@ -26,7 +26,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/ic_baseline_android_24"
-        android:contentDescription="Funny Cat" />
+       />
 
     <Button
         android:id="@+id/next_cat_b"
