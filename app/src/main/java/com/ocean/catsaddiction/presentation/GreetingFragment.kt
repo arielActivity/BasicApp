@@ -1,4 +1,4 @@
-package com.ocean.catsaddiction.ui
+package com.ocean.catsaddiction.presentation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

@@ -1,4 +1,4 @@
-package com.ocean.catsaddiction.viewModel
+package com.ocean.catsaddiction.presentation.main
 
 import android.util.Log
 import androidx.lifecycle.LiveData

@@ -1,4 +1,4 @@
-package com.ocean.catsaddiction.ui
+package com.ocean.catsaddiction.presentation.main
 
 import android.os.Bundle
 import android.util.Log
@@ -7,10 +7,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
-import com.ocean.catsaddiction.R
 import com.ocean.catsaddiction.databinding.FragmentCatsBinding
 import com.ocean.catsaddiction.network.BASE_URL
-import com.ocean.catsaddiction.viewModel.CatsAddictionViewModel
 import coil.load
 
 
